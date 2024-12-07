@@ -26,9 +26,9 @@ cd cardinal-voice-bot
 ```
 
 ### 2. Install Dependencies
-Install the necessary Python packages:
+Install the necessary Nodejs packages:
 ```bash
-pip install -r requirements.txt
+npm install
 ```
 
 ### 3. Create the Configuration File
@@ -56,7 +56,7 @@ Replace `YOUR_DISCORD_BOT_TOKEN_HERE` with your Discord bot token and `YOUR_OPEN
 ### 1. Start the Bot
 Run the bot using:
 ```bash
-python bot.py
+npm start
 ```
 
 ### 2. Invite the Bot to Your Server
